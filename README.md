@@ -6,7 +6,7 @@
 
 The overall structure of the Feature-filter and Multi-Graph Convolutional Encoder (FMGCE), proposed by us is shown in this Figure.
 
-<img src="image/FMGCE.png" width="900px" height="520px"/>
+<img src="image/FMGCE.png" width="700px" height="520px"/>
 
 ## Enviroment Requirement
 - python 3.9
@@ -33,4 +33,4 @@ Raw datasets can be accessed at [Amazon product data](http://jmcauley.ucsd.edu/d
   ```
 
 ## Acknowledgement
-The structure of this code is  based on [MMRec](https://github.com/enoche/MMRec). Thank for their work.
+The structure of this code is  based on [MMRec](https://arxiv.org/abs/2302.03497). Thank for their work.

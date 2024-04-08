@@ -21,7 +21,6 @@ def quick_start(model, dataset, config_dict, save_model=True):
     config = Config(model, dataset, config_dict)
     init_logger(config)
     logger = getLogger()
-    logger.info(('中置 frnet_b, 在 1 出添加维度，两处使用同一个网络，修改 frnet 取消 br，att_size=32, mlp_layer=256'))
     # print config infor
     logger.info('██Server: \t' + platform.node())
     logger.info('██Dir: \t' + os.getcwd() + '\n')
