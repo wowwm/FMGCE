@@ -27,6 +27,9 @@ Download from Google Drive: [Amazon Pre-Trained Datasets](https://drive.google.c
 Raw datasets can be accessed at [Amazon product data](http://jmcauley.ucsd.edu/data/amazon/links.html)
 
 ## Training
+
+For academic security reasons, FMGCE's code has not been officially made public yet.
+
   ```
   cd ./src
   python main.py
